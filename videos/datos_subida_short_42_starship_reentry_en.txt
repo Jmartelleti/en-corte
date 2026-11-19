@@ -1,0 +1,22 @@
+VIDEO: Cutaway_42_short_starship_reentry.mp4  |  MINIATURA: miniatura_short_42_starship_en.jpg
+CANAL: Cutaway (@cutaway-j5icutaway)
+
+TITULO:
+How does Starship survive reentry? #Starship
+
+DESCRIPCION:
+#Starship #SpaceX #Engineering
+
+How does Starship survive coming back from space at ~17,000 mph (~27,000 km/h)? One Raptor engine burns for about 10 seconds to leave orbit, then the ship does the "belly flop": it turns flat so its whole underside pushes against the air. The air compresses into glowing plasma, while ~18,000 hexagonal ceramic tiles protect the steel (built for 2,500°F+ / ~1,400°C — hotter than lava). Four flaps tilt like fins to keep it stable and steer it while drag does the braking. On Flight 15 (Nov 2026) the ship came back after 14 orbits and was caught by the tower arms.
+
+Follow us and like for more! Next: how drifting works.
+
+#Space #Reentry #Shorts
+
+NOTA: datos de SpaceX/prensa (Gizmodo, Ars Technica, Space.com, AP). La cifra "≈7x TNT por kg" es un cálculo propio: energía cinética a 7,5 km/s = ½v² ≈ 28 MJ/kg vs 4,2 MJ/kg del TNT.
+
+TAGS (campo oculto):
+Starship, SpaceX, Starship reentry, heat shield, belly flop, Starship Flight 15, tower catch, plasma, space engineering, how it works, Raptor engine, Mechazilla
+
+COMENTARIO FIJADO (pegar a mano):
+What would you like to see next: how the tower catches a 52 m ship, or how drifting works? 👇 Follow and like for more!
