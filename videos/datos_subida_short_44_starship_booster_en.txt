@@ -1,0 +1,22 @@
+VIDEO: Cutaway_44_short_starship_booster.mp4  |  MINIATURA: miniatura_short_44_starship_en.jpg
+CANAL: Cutaway (@cutaway-j5icutaway)
+
+TITULO:
+Why did Starship's booster run low on fuel? #Starship
+
+DESCRIPCION:
+#Starship #SpaceX #SuperHeavy
+
+Why did the Super Heavy booster of Starship Flight 15 skip its tower catch and end up in the Gulf of Mexico? After separation it flips and fires its engines for a return burn that cancels its speed, so every kilogram of fuel counts. SpaceX said 32 of 33 engines relit but the burn ended early because of a low fuel mass alarm, and reported a guidance (GNC) issue; Musk blamed slightly underperforming engines. The booster exploded just above the waves about 6.5 minutes after liftoff. The root cause is still under investigation, so this is what is known so far.
+
+Subscribe and like if you want the answer when SpaceX publishes it! Next: how drifting works.
+
+#Space #Engineering #Shorts
+
+NOTA: datos de SpaceX y prensa (Space.com, TeslaNorth, Nature World News, Exterra JSC). Causa raiz NO confirmada; el video lo presenta como "lo que se sabe". La barra de combustible es solo una ilustracion.
+
+TAGS (campo oculto):
+Starship, SpaceX, Super Heavy, Booster 22, Starship Flight 15, boostback burn, booster catch, chopsticks, Mechazilla, Raptor engine, space engineering
+
+COMENTARIO FIJADO (pegar a mano):
+Subscribe and like if you want the answer when SpaceX publishes the investigation! 👇 Next up: how drifting works. What should we explain after that?
