@@ -1,0 +1,22 @@
+VIDEO: Cutaway_46_short_turbo.mp4  |  MINIATURA: miniatura_short_46_turbo_en.jpg
+CANAL: Cutaway (@cutaway-j5icutaway)
+
+TITULO:
+How does a turbo make a small engine act like a big one? #Turbo
+
+DESCRIPCION:
+#Turbo #Cars #Engineering
+
+How can a small engine make as much power as a big one? An engine makes power by burning fuel with air, so more air means more power. A turbocharger gets that air using exhaust gas the engine would otherwise waste: the hot exhaust spins a turbine, a shaft connects it to a compressor, and the compressor squeezes more air into the engine, which is called boost. The turbine needs exhaust to spin up first, which causes turbo lag, and a wastegate lets extra exhaust bypass the turbine so boost never gets too high.
+
+Subscribe and like if you want the real engineering behind cars! Next: how air traffic control keeps planes apart.
+
+#Physics #Shorts
+
+NOTA: explicacion estandar de turbo (turbina, compresor, boost, turbo lag, wastegate); sin cifras. Fuentes de contraste: The Drive, evo, patentes USPTO.
+
+TAGS (campo oculto):
+turbo, how a turbo works, turbocharger, turbo lag, wastegate, boost pressure, turbine, compressor, exhaust gas, car engineering, turbo explained
+
+COMENTARIO FIJADO (pegar a mano):
+Subscribe and like if you want the real engineering behind cars! 👇 Next up: how air traffic control keeps planes apart. What should we explain after that?

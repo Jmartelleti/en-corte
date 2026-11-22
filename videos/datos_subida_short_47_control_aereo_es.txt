@@ -1,0 +1,22 @@
+VIDEO: EnCorte_47_short_control_aereo_ES.mp4  |  MINIATURA: miniatura_short_47_atc_es.jpg
+CANAL: En Corte (@encorteingenieria)
+
+TITULO:
+¿Por qué un problema de red frenó todos los vuelos de EE. UU.? #FAA
+
+DESCRIPCION:
+#FAA #Aviación #ControlAéreo
+
+El 13 de noviembre de 2026, una falla de comunicaciones llevó a la FAA a frenar todas las salidas de EE. UU. por más de cuatro horas. Los controladores mantienen los aviones separados con reglas de separación (al menos 1.000 pies en vertical, o unas 3 a 5 millas de costado), siguiendo cada avión por radar y dando instrucciones por radio. Si esos enlaces fallan, no pueden dirigir el tráfico con seguridad, así que lo seguro es frenar las salidas mientras los aviones que ya están en el aire siguen procedimientos establecidos y esperan en circuito. Los reportes apuntan a un problema de router, pero la FAA y L3Harris siguen investigando, así que la causa raíz no es definitiva.
+
+¡Suscribite y dale like si querés la ingeniería real detrás de la aviación! Sigue: cómo funciona un motor a reacción.
+
+#Ingeniería #Shorts
+
+NOTA: datos de FAA (Q&A del 15/11/2026), AeroTime, Aviation Week/AIAA, FlightQueue; separación 1.000 ft / 3-5 NM de FAA Order JO 7110.65 (vía AvWeb, Flying). Causa raíz NO confirmada. Las animaciones son ilustrativas.
+
+TAGS (campo oculto):
+parón nacional FAA, control de tráfico aéreo, cómo funciona el control aéreo, ATC, radar, separación de aviones, demoras de vuelos, ingeniería aeronáutica, falla de la FAA, 13 de noviembre 2026
+
+COMENTARIO FIJADO (pegar a mano):
+¡Suscribite y dale like si querés la ingeniería real detrás de la aviación! 👇 Sigue: cómo funciona un motor a reacción. ¿Qué querés que expliquemos después?

@@ -1,0 +1,22 @@
+VIDEO: Cutaway_47_short_air_traffic.mp4  |  MINIATURA: miniatura_short_47_atc_en.jpg
+CANAL: Cutaway (@cutaway-j5icutaway)
+
+TITULO:
+Why did one network problem stop every flight in the US? #FAA
+
+DESCRIPCION:
+#FAA #Aviation #AirTrafficControl
+
+On November 13, 2026, a communications failure led the FAA to halt all US departures for over four hours. Air traffic controllers keep planes apart with separation rules (at least 1,000 feet vertically, or about 3 to 5 miles sideways), using radar to track planes and radio to give instructions. If those links fail, controllers can't safely direct traffic, so the safe move is to stop departures while planes already in the air follow established procedures and hold. Reports point to a router problem, but the FAA and L3Harris are still investigating, so the root cause is not final.
+
+Subscribe and like if you want the real engineering behind aviation! Next: how a jet engine works.
+
+#Engineering #Shorts
+
+NOTA: datos de FAA (Q&A del 15/11/2026), AeroTime, Aviation Week/AIAA, FlightQueue; separacion 1.000 ft / 3-5 NM de FAA Order JO 7110.65 (via AvWeb, Flying). Causa raiz NO confirmada; el video lo presenta como "reportes apuntan a". Las animaciones son ilustrativas.
+
+TAGS (campo oculto):
+FAA ground stop, nationwide ground stop, air traffic control, how air traffic control works, ATC, radar, flight separation, flight delays, aviation engineering, FAA outage, November 13 2026
+
+COMENTARIO FIJADO (pegar a mano):
+Subscribe and like if you want the real engineering behind aviation! 👇 Next up: how a jet engine works. What should we explain after that?
