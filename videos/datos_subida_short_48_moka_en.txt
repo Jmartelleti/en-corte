@@ -1,0 +1,22 @@
+VIDEO: Cutaway_48_short_moka_pot.mp4  |  MINIATURA: miniatura_short_48_moka_en.jpg
+CANAL: Cutaway (@cutaway-j5icutaway)
+
+TITULO:
+How does a coffee pot push water uphill using only a flame? #MokaPot
+
+DESCRIPCION:
+#MokaPot #Coffee #Engineering
+
+A moka pot has three parts: a boiler with water, a funnel holding the coffee grounds, and a top chamber. On the stove, the air and steam trapped in the sealed boiler build pressure. That pressure can only push down on the water, so the water climbs up the funnel, soaks through the grounds, and the coffee rises up the center tube into the top chamber. A rubber seal keeps the pressure in, and a safety valve lets steam out if it gets too high. A moka pot works at roughly 1 to 2 bar, while an espresso machine uses about 9 bar, which is why moka coffee is not true espresso.
+
+Subscribe and like if you want the real engineering behind everyday things! Next: how a jet engine works.
+
+#Shorts #HowItWorks
+
+NOTA: presion 1-2 bar vs 9 bar de espresso (Wikipedia "Moka pot", citando Navarini et al. y King, Am. J. Phys. 2008); sello de goma y valvula de seguridad (Wikipedia, Bialetti); Moka Express de Bialetti, 1933. Las cifras reales varian segun el modelo y el calor; la animacion es ilustrativa.
+
+TAGS (campo oculto):
+moka pot, how a moka pot works, stovetop espresso, Bialetti, Moka Express, italian coffee maker, coffee engineering, pressure physics, safety valve, how it works, coffee science, engineering explained
+
+COMENTARIO FIJADO (pegar a mano):
+Subscribe and like if you want the real engineering behind everyday things! 👇 Next up: how a jet engine works. What should we explain after that?
