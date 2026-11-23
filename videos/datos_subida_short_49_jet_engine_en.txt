@@ -1,0 +1,22 @@
+VIDEO: Cutaway_49_short_jet_engine.mp4  |  MINIATURA: miniatura_short_49_jet_engine_en.jpg
+CANAL: Cutaway (@cutaway-j5icutaway)
+
+TITULO:
+How does a jet engine push a huge plane using only air? #JetEngine
+
+DESCRIPCION:
+#JetEngine #Aviation #Engineering
+
+A jet engine works in four steps: suck, squeeze, burn, blow. A giant fan sucks in air, and the air it sends around the core can give up to 80 percent of the thrust. The rest goes into the compressor, where rows of blades squeeze it to as much as 40 times atmospheric pressure. Fuel burns in that compressed air and the hot gas expands with huge force. The gas spins the turbine, and a shaft sends power forward to drive the compressor and the fan. The gas can be hotter than the melting point of the blades, so cooling air keeps them from failing. Finally the exhaust blasts out the back, and by Newton's third law the plane is pushed forward.
+
+Subscribe and like if you want the real engineering behind aviation! Next: how a helicopter flies.
+
+#Shorts #HowItWorks
+
+NOTA: cuatro pasos "suck, squeeze, burn, blow" y hasta 80% del empuje por el aire del fan (Flying Magazine); relacion de compresion de 40:1 o mas (Flying, Stanford); turbina mueve compresor y fan por un eje (NASA Glenn); gas mas caliente que el punto de fusion de los alabes, enfriados por aire (Popular Science, Stanford); tercera ley de Newton (Rolls-Royce). Las cifras varian segun el motor; la animacion es ilustrativa.
+
+TAGS (campo oculto):
+jet engine, how a jet engine works, turbofan, aviation, aircraft engine, compressor, turbine, combustion, Newton third law, engineering explained, how it works, aerospace
+
+COMENTARIO FIJADO (pegar a mano):
+Subscribe and like if you want the real engineering behind aviation! 👇 Next up: how a helicopter flies. What should we explain after that?
